@@ -8,7 +8,7 @@ I am currently pursuing a computer science degree from the university of Basel i
 
 ### More about me...
 
-- 🔭 I’m currently working on Django, Pyhton, Raspberries, etc 💻.
+- 🔭 I’m currently working on Django, Pyhton, Raspberries, Go, etc 💻.
 - 🌱 I’m currently looking into database design and web application development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Python.
 - 📫 How to reach me: v.gsteiger@gmail.com | [LinkedIn](https://www.linkedin.com/in/viktor-gsteiger/) | [Twitter](https://twitter.com/VGsteiger)
@@ -29,6 +29,3 @@ I am currently pursuing a computer science degree from the university of Basel i
 <a href="https://github.com/vGsteiger/NetflixStats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vGsteiger&repo=NetflixStats" />
 </a>
-
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%vGsteiger%2F" /></p>
-
