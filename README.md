@@ -14,7 +14,7 @@ I am currently pursuing a computer science degree from the university of Basel i
 - 📫 How to reach me: v.gsteiger@gmail.com | [LinkedIn](https://www.linkedin.com/in/viktor-gsteiger/) | [Twitter](https://twitter.com/VGsteiger)
 - 💻 I have worked with Python, C, C++, Java, Django, HTML/CSS, Javascript, MySQL, Git, Docker, Arduinos, Raspberries, Solidity, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
-- ⚡ Fun fact:  🤣. Hire [me](mailto:v.gsteiger@gmail.com?Subject=Hello%Viktor) 👨‍💻.
+- ⚡ Hire [me](mailto:v.gsteiger@gmail.com?Subject=Hello%Viktor) 👨‍💻.
 
 ### Show some ❤️ by starring some of the repositories!
 
