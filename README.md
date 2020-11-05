@@ -18,6 +18,8 @@ I am currently pursuing a computer science degree from the University of Basel i
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vGsteiger&show_icons=true&hide_border=true)
 
+<img src="https://co2birth.date/shields/1998-06-29.svg" alt="https://co2birth.date Shield for 1998-06-29." />
+
 From [vGsteiger](https://github.com/vGsteiger)
 
 <a href="https://github.com/vGsteiger/CS-108-2019-Buddler-Joe">
@@ -27,5 +29,3 @@ From [vGsteiger](https://github.com/vGsteiger)
 <a href="https://github.com/vGsteiger/NetflixStats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vGsteiger&repo=NetflixStats" />
 </a>
-
-<img src="https://co2birth.date/shields/1998-06-29.svg" alt="https://co2birth.date Shield for 1998-06-29." />
