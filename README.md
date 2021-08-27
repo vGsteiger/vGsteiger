@@ -4,7 +4,7 @@
 
 ### Glad to see you here!
 
-I am currently pursuing a computer science degree from the University of Basel in Switzerland while also working on international projects with a NGO. Somewhat political, definitely a news/podcast addict and frequent reader.
+I am currently pursuing a computer science master's degree from the ETH Zürich in Switzerland while also working on international projects with a NGO. I have finished my Computer Science BSc at the University of Basel. Somewhat political, definitely a news/podcast addict and frequent reader.
 
 ### More about me...
 
