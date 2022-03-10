@@ -12,5 +12,5 @@ I am currently pursuing a computer science master's degree from the ETH Zürich 
 - I’m currently looking into database design, temporal multimedia querying and web application development.
 - I’m looking to collaborate on any Open Source Project involving Python or Kotlin.
 - How to reach me: v.gsteiger@gmail.com | [LinkedIn](https://www.linkedin.com/in/viktor-gsteiger/) | [Twitter](https://twitter.com/VGsteiger)
-- I have worked with Kotlin, Python, C, C++, Java, Django, HTML/CSS, Javascript, MySQL, Git, Docker, Arduinos, Raspberries, Solidity, Algol, PostgreSQL etc.
+- I have worked with Kotlin, Python, C, C++, Java, Django, HTML/CSS, Javascript, MySQL, Git, Docker, Arduinos, Raspberries, Solidity, Algol, PostgreSQL, HDFS, Spark, RumbleDB, JSONiq etc.
 - Ask me about anything! I am happy to help and guide you.
