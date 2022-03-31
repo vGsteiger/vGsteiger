@@ -15,4 +15,4 @@ I am currently pursuing a computer science master's degree from the ETH Zürich 
 - I have worked with Kotlin, Python, C, C++, Java, Django, HTML/CSS, Javascript, MySQL, Git, Docker, Arduinos, Raspberries, Solidity, Algol, PostgreSQL, HDFS, Spark, RumbleDB, JSONiq etc.
 - Ask me about anything! I am happy to help and guide you.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgsteiger&hide=jupyter-notebook,html&layout=compact)](https://github.com/vgsteiger/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgsteiger&hide=jupyter%20notebook,html&layout=compact)](https://github.com/vgsteiger/github-readme-stats)
