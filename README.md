@@ -16,3 +16,4 @@ I am currently pursuing a computer science master's degree from the ETH Zürich 
 - Ask me about anything! I am happy to help and guide you.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgsteiger&hide=jupyter%20notebook,html&layout=compact)](https://github.com/vgsteiger/github-readme-stats)
+
