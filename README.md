@@ -1,19 +1,14 @@
-### Hi there
-
 ## Hello World!
 
-### Glad to see you here!
-
-I am currently pursuing a computer science master's degree from the ETH Zürich in Switzerland while also working on international projects with a NGO. I have finished my Computer Science BSc at the University of Basel. Somewhat political, definitely a news/podcast addict and frequent reader.
+I am currently pursuing a computer science master's degree from ETH Zürich in Switzerland with a major in Data Management System and minor in Programming Languages and Software Engineering. Furthermore, I am working as a DevOps Engineer at bsi-software.com. I obtained my Computer Science BSc at the University of Basel with a focus in Databases and Information System. Somewhat political, definitely a news/podcast addict and frequent reader.
 
 ### More about me...
-
-- I’m currently working with Kotlin, Java, Pyhton, Raspberries, Ubuntu, Go, etc.
-- I’m currently looking into database design, temporal multimedia querying and web application development.
-- I’m looking to collaborate on any Open Source Project involving Python or Kotlin.
+- Strong understanding of programming concepts and principles, including object-oriented programming, data structures, algorithms, and design patterns
+- Familiarity with a variety of programming languages and frameworks, including Java, Python, Kotlin, Java, Pyhton, Ubuntu, Bash, and Go
+- Proficient in data analysis and visualization using tools like Pandas, NumPy, and Matplotlib
+- Experience with software development tools, such as Git, Azure DevOps, and Jupyter Notebooks
+- Knowledge of software development best practices, including Agile methodology and test-driven development
 - How to reach me: info@vgsteiger.com | [LinkedIn](https://www.linkedin.com/in/viktor-gsteiger/)
-- I have worked with Kotlin, Python, C, C++, Java, Django, HTML/CSS, Javascript, MySQL, Git, Docker, Arduinos, Raspberries, Solidity, Algol, PostgreSQL, HDFS, Spark, RumbleDB, JSONiq etc.
-- Ask me about anything! I am happy to help and guide you.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgsteiger&hide=jupyter%20notebook,html&layout=compact)](https://github.com/vgsteiger/github-readme-stats)
 
