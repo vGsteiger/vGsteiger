@@ -10,5 +10,6 @@ I am currently pursuing a computer science master's degree from ETH Zürich in S
 - Knowledge of software development best practices, including Agile methodology and test-driven development
 - How to reach me: info@vgsteiger.com | [LinkedIn](https://www.linkedin.com/in/viktor-gsteiger/)
 
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=vgsteiger&hide=jupyter%20notebook,html&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=vgsteiger&hide=jupyter%20notebook,html,css,Tex&layout=compact&count_private=true&size_weight=0.5&count_weight=0.5&langs_count=8))](https://github.com/vgsteiger/github-readme-stats)
+![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vgsteiger&hide=JavaScript,jupyter%20notebook,html,css,Tex&layout=compact&count_private=true&size_weight=0.2&count_weight=0.8&langs_count=5)
+
 
