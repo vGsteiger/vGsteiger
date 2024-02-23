@@ -1,10 +1,10 @@
 ## Hello World!
 
-I am currently pursuing a computer science master's degree from ETH Zürich in Switzerland with a major in Data Management System and minor in Programming Languages and Software Engineering. Furthermore, I am working as a DevOps Engineer at bsi-software.com. I obtained my Computer Science BSc at the University of Basel with a focus in Databases and Information System. Somewhat political, definitely a news/podcast addict and frequent reader.
+I am currently pursuing a computer science master's degree from ETH Zürich in Switzerland with a major in Data Management System and minor in Programming Languages and Software Engineering. Previous and future Delta @ Palantir, former SWE @ BSI AG. I obtained my Computer Science BSc at the University of Basel with a focus in Databases and Information System. Somewhat political, definitely a news/podcast addict and frequent reader.
 
 ### More about me...
 - Strong understanding of programming concepts and principles, including object-oriented programming, data structures, algorithms, and design patterns
-- Familiarity with a variety of programming languages and frameworks, including Java, Python, Rust, Kotlin, Ubuntu, Bash, and Go
+- Familiarity with a variety of programming languages and frameworks, including Java, Python, Rust, Kotlin, Ubuntu, Bash, Docker, AWS Lambda, and Go
 - Proficient in data analysis and visualization using tools like Pandas, NumPy, and Matplotlib
 - Experience with software development tools, such as Git, Azure DevOps, and Jupyter Notebooks
 - Knowledge of software development best practices, including Agile methodology and test-driven development
