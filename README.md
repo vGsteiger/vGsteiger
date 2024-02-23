@@ -4,7 +4,7 @@ I am currently pursuing a computer science master's degree from ETH Zürich in S
 
 ### More about me...
 - Strong understanding of programming concepts and principles, including object-oriented programming, data structures, algorithms, and design patterns
-- Familiarity with a variety of programming languages and frameworks, including Java, Python, Rust, Kotlin, Java, Pyhton, Ubuntu, Bash, and Go
+- Familiarity with a variety of programming languages and frameworks, including Java, Python, Rust, Kotlin, Ubuntu, Bash, and Go
 - Proficient in data analysis and visualization using tools like Pandas, NumPy, and Matplotlib
 - Experience with software development tools, such as Git, Azure DevOps, and Jupyter Notebooks
 - Knowledge of software development best practices, including Agile methodology and test-driven development
